@@ -173,10 +173,10 @@ margin_left = -126.0
 margin_top = -163.0
 margin_right = 126.0
 margin_bottom = -85.0
-custom_fonts/normal_font = ExtResource( 3 )
 custom_constants/shadow_offset_x = 2
 custom_constants/shadow_offset_y = 2
 custom_constants/line_separation = 13
+custom_fonts/normal_font = ExtResource( 3 )
 bbcode_enabled = true
 bbcode_text = "[center][color=#fff]PIXEL[/color]
 [color=#111]BLACK[/color][color=#AC3232]JACK[/color][/center]"
